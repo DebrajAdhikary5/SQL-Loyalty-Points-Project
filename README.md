@@ -1,5 +1,5 @@
 
-# 🎮 SQL Loyalty Points Analysis – ABC Gaming
+# SQL Loyalty Points Analysis – ABC Gaming
 
 This project analyzes user behavior in a real-money online gaming platform using SQL to calculate and rank loyalty points.
 
@@ -55,8 +55,8 @@ All datasets were manually cleaned and slotted into time segments (S1: 12am–12
 | File Name                                         | Description                              |
 |--------------------------------------------------|------------------------------------------|
 | [`deposit_data.csv`](./Deposit_Data.csv)         | Raw deposit transactions                  |
-| [`withdrawal_data.csv`](./withdrawal_data.csv)   | Raw withdrawal transactions               |
-| [`user_gameplay_data.csv`](./user_gameplay_data.csv) | Raw gameplay logs                     |
+| [`withdrawal_data.csv`](./Withdrawal_Data.csv)   | Raw withdrawal transactions               |
+| [`user_gameplay_data.csv`](./User_Gameplay_Data.csv) | Raw gameplay logs                     |
 | [`ABCFinal.sql`](./ABCFinal.sql)                 | Final SQL script with all queries         |
 | [`Loyalty_Project_Report_By_Debraj_Adhikary.pdf`](./Loyalty_Project_Report_By_Debraj_Adhikary.pdf) | Final project report (PDF format)        |
 
