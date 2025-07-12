@@ -54,7 +54,7 @@ All datasets were manually cleaned and slotted into time segments (S1: 12am–12
 
 | File Name                                         | Description                              |
 |--------------------------------------------------|------------------------------------------|
-| [`deposit_data.csv`](./deposit_data.csv)         | Raw deposit transactions                  |
+| [`deposit_data.csv`](./Deposit_Data.csv)         | Raw deposit transactions                  |
 | [`withdrawal_data.csv`](./withdrawal_data.csv)   | Raw withdrawal transactions               |
 | [`user_gameplay_data.csv`](./user_gameplay_data.csv) | Raw gameplay logs                     |
 | [`ABCFinal.sql`](./ABCFinal.sql)                 | Final SQL script with all queries         |
