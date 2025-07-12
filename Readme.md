@@ -3,9 +3,9 @@
 
 ## 📥 Data Collection
 
-- `Deposit_Data`
-- `Withdrawal_Data`
-- `User_Gameplay_data`
+- [`deposit_data.csv`](./Deposit_Data.csv)
+- [`withdrawal_data.csv`](./Withdrawal_Data.csv)
+- [`user_gameplay_data.csv`](./User_Gameplay_data.csv)
 
 These were imported into **MySQL** using the **Table Data Import Wizard**.
 
